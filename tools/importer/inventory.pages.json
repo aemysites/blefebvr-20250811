@@ -1,0 +1,46 @@
+{
+  "templates": [
+    {
+      "name": "News Portal Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/er-du-ok/",
+          "uuid": "3114b18789261760d1642fcf0b16bf42a2d8b004"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/mistrives-dit-barn/",
+          "uuid": "62f21dc5364c4d28a2079a02cea1aec487d1261f"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/hjaelp-til-at-leve-sundere/",
+          "uuid": "176810a11eda53d05a6e2f22ce8d4bcf69cf6f28"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/har-du-smerter/",
+          "uuid": "8f5aca46dac08fa00f8e251e673bef01622e03aa"
+        }
+      ]
+    },
+    {
+      "name": "'News Portal'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/",
+          "uuid": "9faeb9ffff637d45cb754c0351b9f116c6d127a6"
+        }
+      ]
+    },
+    {
+      "name": "'Service Overview'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/",
+          "uuid": "109d2b1ef4db84ec2e6cd8efb3e585e7f9010ab7"
+        }
+      ]
+    }
+  ]
+}
