@@ -1,0 +1,78 @@
+{
+  "originUrl": "https://www.pfa.dk",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.pfa.dk/privat",
+      "source": "MANUAL",
+      "targetPath": "/privat",
+      "id": "23e4fa7104858e07df58bcc265817cf535c57cbd"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/forsikringer/er-du-ok",
+      "source": "MANUAL",
+      "targetPath": "/privat/forsikringer/er-du-ok",
+      "id": "a08acf115e21cde10b7d36f0b593af26a11c91ca"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/forsikringer/har-du-smerter",
+      "source": "MANUAL",
+      "targetPath": "/privat/forsikringer/har-du-smerter",
+      "id": "34671b7da835526a2a2c136408800618e0658530"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/forsikringer/hjaelp-til-at-leve-sundere",
+      "source": "MANUAL",
+      "targetPath": "/privat/forsikringer/hjaelp-til-at-leve-sundere",
+      "id": "96ae60c2b45aadaf0257520af55e40de08663ca9"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/forsikringer/mistrives-dit-barn",
+      "source": "MANUAL",
+      "targetPath": "/privat/forsikringer/mistrives-dit-barn",
+      "id": "a73fdc044e505cc271f3cba5d8bdc9b39f4e1f72"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub",
+      "source": "MANUAL",
+      "targetPath": "/privat/livsaendringer/det-gode-seniorliv-hub",
+      "id": "165cb73cddbf1550edeb9cd18eb39e3b525d8057"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/du-skal-udstationeres",
+      "source": "MANUAL",
+      "targetPath": "/privat/livsaendringer/du-skal-udstationeres",
+      "id": "0b94a9ce9b90df1e144de0f80bd2ef7d69f80df7"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/opsparing/hvad-er-en-pensionsopsparing",
+      "source": "MANUAL",
+      "targetPath": "/privat/opsparing/hvad-er-en-pensionsopsparing",
+      "id": "18e4bb981ed70c484b544226eeee0fcba4ece77d"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/opsparing/opsparingsformer",
+      "source": "MANUAL",
+      "targetPath": "/privat/opsparing/opsparingsformer",
+      "id": "6095330cd607f68af39524e762b3b92646076578"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/opsparing/pfa-afkast",
+      "source": "MANUAL",
+      "targetPath": "/privat/opsparing/pfa-afkast",
+      "id": "5efbc28c99e76419fbb37a80e471f90a4d49cbb6"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/opsparing/sparekstraop",
+      "source": "MANUAL",
+      "targetPath": "/privat/opsparing/sparekstraop",
+      "id": "e100ad2992c5094e45e123c407c2ef1c23f7e26a"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}
