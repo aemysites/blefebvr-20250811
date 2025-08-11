@@ -37,36 +37,6 @@
       "source": "MANUAL",
       "targetPath": "/privat/livsaendringer/det-gode-seniorliv-hub",
       "id": "165cb73cddbf1550edeb9cd18eb39e3b525d8057"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/livsaendringer/du-skal-udstationeres",
-      "source": "MANUAL",
-      "targetPath": "/privat/livsaendringer/du-skal-udstationeres",
-      "id": "0b94a9ce9b90df1e144de0f80bd2ef7d69f80df7"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/opsparing/hvad-er-en-pensionsopsparing",
-      "source": "MANUAL",
-      "targetPath": "/privat/opsparing/hvad-er-en-pensionsopsparing",
-      "id": "18e4bb981ed70c484b544226eeee0fcba4ece77d"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/opsparing/opsparingsformer",
-      "source": "MANUAL",
-      "targetPath": "/privat/opsparing/opsparingsformer",
-      "id": "6095330cd607f68af39524e762b3b92646076578"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/opsparing/pfa-afkast",
-      "source": "MANUAL",
-      "targetPath": "/privat/opsparing/pfa-afkast",
-      "id": "5efbc28c99e76419fbb37a80e471f90a4d49cbb6"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/opsparing/sparekstraop",
-      "source": "MANUAL",
-      "targetPath": "/privat/opsparing/sparekstraop",
-      "id": "e100ad2992c5094e45e123c407c2ef1c23f7e26a"
     }
   ],
   "crawlOptions": {
