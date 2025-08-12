@@ -37,6 +37,24 @@
       "source": "MANUAL",
       "targetPath": "/privat/livsaendringer/det-gode-seniorliv-hub",
       "id": "9faeb9ffff637d45cb754c0351b9f116c6d127a6"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/du-skal-udstationeres/",
+      "source": "MANUAL",
+      "targetPath": "/privat/livsaendringer/du-skal-udstationeres",
+      "id": "59dd618f6ed22ab9afbbaa6706e9a1eb84f217ff"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/opsparing/hvad-er-en-pensionsopsparing/",
+      "source": "MANUAL",
+      "targetPath": "/privat/opsparing/hvad-er-en-pensionsopsparing",
+      "id": "e21795e8cf3c19ef9d53253d674efa55b85c0255"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/opsparing/opsparingsformer/",
+      "source": "MANUAL",
+      "targetPath": "/privat/opsparing/opsparingsformer",
+      "id": "e5476f6fff0392c9ebca091a887891498140b79e"
     }
   ],
   "crawlOptions": {
